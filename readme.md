@@ -10,4 +10,4 @@
 
 <p>HTML, CSS e JavaScript</p>
 
-<p>Link: stopwatch-project-nycolas.netlify.app</p>
+<p>Link: https://stopwatch-project-nycolas.netlify.app</p>

@@ -9,3 +9,5 @@
 <h1>Tecnologias Utilizadas</h1>
 
 <p>HTML, CSS e JavaScript</p>
+
+<p>Link: stopwatch-project-nycolas.netlify.app</p>

@@ -61,4 +61,42 @@ button, .button-start, .button-pause, .button-reset {
 	cursor: pointer;
 }
 
+/****** RESPONSIVO ***********/
 
+@media (max-width: 1024px){
+
+	.container, .timer-display {
+		width: 85%;
+		font-size: 1.3em;
+	}
+
+	button, .button-start, .button-pause, .button-reset {
+		font-size: 15px;
+		margin-left: 5px;
+	}
+
+}
+
+@media (max-width: 768px) {
+	.timer-display{
+		font-size: 2rem;
+	}
+
+	button, .button-start, .button-pause, .button-reset {
+		font-size: 13px;
+		margin-left: 4px;
+	}
+
+}
+
+@media (max-width: 654px) {
+
+	.container, .timer-display{
+		width: 85%;
+		font-size: 0.8rem;
+	}
+
+}
+
+
+ 
